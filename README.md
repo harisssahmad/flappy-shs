@@ -11,6 +11,7 @@
 	2. **Polymorphism:** Special abilities for each pair of characters
 	3. **Abstraction** and **Encapsulation**
 - Highscore filing with encryption is also implemented
+- The game is written in **C++** using the **SFML** library.
 
 - This was not a solo effort, but a group project done by three students, namely:
 	1. Haris Ahmad
