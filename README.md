@@ -15,6 +15,6 @@
 
 - This was not a solo effort, but a group project done by three students, namely:
 	1. Haris Ahmad
-	2. Shahmeer Ather
+	2. Shahmeer Ather [Link to his GitHub profile!](https://github.com/shahmeerather)
 	3. Saad Salman
 - Hence, the game has the name *SHS!*
